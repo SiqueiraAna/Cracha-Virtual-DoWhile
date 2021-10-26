@@ -30,6 +30,7 @@ main {
   text-align: center;
 
   color: var(--grey);
+  /* color: #B60E7C; */
 }
 
 .avatar {
